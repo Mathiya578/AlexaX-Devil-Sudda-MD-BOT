@@ -1,4 +1,4 @@
 {
-	"name": "AlexaX-Devil-Sudda-MD-BOT-"
+	"name": "SOHAN-MUSIC-BOT"
 }
 
