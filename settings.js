@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94779499811'] //ur owner number
+global.vcardowner = ['94757962326'] //ur owner number
 global.ownername = "Sohan Matheesha" //ur owner name
 global.ytname = "YT:Not Use" //ur yt chanel name
 global.socialm = "GitHub: Mathiya578" //ur github or insta name
@@ -63,7 +63,7 @@ global.location = "Srilanka, Gampha District,Ganemulla" //ur location
 //bot bomdy 
 global.owner = ['94779499811']
 global.ownertag = '94779499811' //ur tag number
-global.botname = 'AlexaX-Devil-Sudda-MD-BOT' //ur bot name
+global.botname = 'SOHAN-HIRU-BOT' //ur bot name
 global.linkz = "https://youtube.com/shorts/QEF6hNxffow?feature=share" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/shorts/QEF6hNxffow?feature=share" //ur website to be displayed
 global.botscript = 'https://wa.me/94779499811' //script link
