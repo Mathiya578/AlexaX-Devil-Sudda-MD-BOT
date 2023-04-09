@@ -1,5 +1,5 @@
 {
-  "name": "QUEEN-ELISA-MD",
+  "name": "AlexaX-Devil-Sudda-MD-BOT",
   "version": "3.3.3",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -15,9 +15,9 @@
     "bot",
     "bot-md",
     "multi-device",
-    "dark-maker-ofc"
+    "c"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-SOHAN",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "hostinger-bot/baileys",
@@ -88,10 +88,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD-V2.git",
+  "repository": "git+https://github.com/Mathiya578/AlexaX-Devil-Sudda-MD-BOT.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
+    "url": "https://github.com/Mathiya578/AlexaX-Devil-Sudda-MD-BOT/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/#readme",
+  "homepage": "https://github.com/Mathiya578/AlexaX-Devil-Sudda-MD-BOT/#readme",
   "main": "index.js"
 }
